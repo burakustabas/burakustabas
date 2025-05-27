@@ -4,6 +4,12 @@
  · 💻 I am a junior mobile developer who is eager to make a mark in the mobile world, open to learning and has goals.
  
  · 📫 Contact me: burakustabaass@gmai.com
+  
+ · <a href="https://www.linkedin.com/in/burakustabas"> Linkedn</a>
+
+ · <a href="https://www.instagram.com/burakustabas_/"> İnstagram</a>
+
+
  
               
 <!--
