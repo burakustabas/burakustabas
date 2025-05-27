@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Burak 🫡   
+## Hi there 👋 I'm Burak Ustabaş 🫡   
 
   
  · 💻 I am a junior mobile developer who is eager to make a mark in the mobile world, open to learning and has goals.
